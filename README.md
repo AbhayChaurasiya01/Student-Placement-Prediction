@@ -81,7 +81,7 @@ The model predicts whether a student is likely to be placed based on academic an
 ### Clone the repository
 
 ```bash
-git clone https://github.com/sushilagarhari/Student-Placement-Prediction.git
+git clone https://github.com/Abhay Chaurasiya/Student-Placement-Prediction.git
 ```
 
 ### Install required libraries
@@ -109,6 +109,6 @@ Student-Placement-Prediction/
 
 ## 👨‍💻 Author
 
-**Sushil Agarhari**
+**Abhay Chaurasiya**
 
-GitHub: https://github.com/sushilagarhari
+GitHub: https://github.com/AbhayChaurasiya01
